@@ -1,0 +1,15 @@
+# Table of contents
+
+* [👑 OWASPTop10](README.md)
+* [🔗 Broken Access Control](broken-access-control.md)
+* [🎲 Cryptographic Failures](cryptographic-failures.md)
+* [🕹️ Injection](injection.md)
+* [🩼 SQL Injection Attack](sql-injection-attack.md)
+* [🥅 Insecure Designed](insecure-designed.md)
+* [🦉 Security Misconfiguration](security-misconfiguration.md)
+* [☢️ Vulnerable and Outdated Components](vulnerable-and-outdated-components.md)
+* [😵 Identification and Authentication Failure](identification-and-authentication-failure.md)
+* [🫥 Software and Data Integrity Failures](software-and-data-integrity-failures.md)
+* [🦄 Logging & Monitoring Failures](logging-and-monitoring-failures.md)
+* [🖥️ Server-Side Request Forgery](server-side-request-forgery.md)
+* [☠️ XML External Entity](xml-external-entity.md)
